@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/tammy-uncc/<OWNER>/<OWNER>/IMG_5032.jpg "Header")](https://some-url.dev/)
+![Header](https://github.com/tammy-uncc/tammy-uncc/blob/main/IMG_5032.jpg "Header")]
 
 ## Hi there 👋
 
