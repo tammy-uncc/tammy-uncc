@@ -1,4 +1,4 @@
-![Header](https://github.com/tammy-uncc/tammy-uncc/blob/main/IMG_5032.jpg "Header")]
+![Header](https://github.com/tammy-uncc/tammy-uncc/blob/main/IMG_4672.jpg "Header")]
 
 ## Hi there 👋
 
