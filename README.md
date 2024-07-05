@@ -1,6 +1,14 @@
-![Header](https://github.com/tammy-uncc/tammy-uncc/blob/main/IMG_4672c.jpg "Header")]
+![Header](https://github.com/tammy-uncc/tammy-uncc/blob/main/IMG_4672c.jpg "Header")
 
-## Hi there 👋
+## Bio 👋
+
+Tammy is a data privacy and security specialist with over 20 years of experience and proven success in IT. With an extensive technical background in software engineering and consulting, many of her experiences focus on the gathering, processing, and distribution of data. 
+
+Previously part of IBM’s Optim Worldwide Center of Excellence team, Tammy has delivered data governance services and data privacy solutions across the globe. She has architected and implemented services and solutions in the insurance, healthcare, education, and finance industries for both private and public sectors. 
+
+Among her accomplishments, Tammy managed a strategic business organization in a software firm — accounting for over a quarter of the corporate revenues. She also engineered a variety of software applications for different industries, including software manufacturers, telco, finance, and engineering. 
+
+Tammy co-founded a successful profit center for software development services, designed to compete with low-cost offshore development firms. She also operated a commodities brokerage firm on the Commodities Exchange Inc. (now the New York Mercantile Exchange).
 
 <!--
 **tammy-uncc/tammy-uncc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
